@@ -10,10 +10,7 @@
 
 I'm a self-taught high school student from Indonesia who turns curiosity into code.
 
-### 📱 Coding Without a PC
-Due to device limitations, I build, compile, and debug all my projects directly on my entry-level Android phone using **Termux** and **Acode**. I don't let hardware constraints stop me from learning deep computer science concepts.
-
-### 🛠 What I'm Focused On
+###  What I'm Focused On
 * **Primary Language:** `Rust` • `Python`
 * **Secondary Language** `Gleam`
 * **Current Interest:** Data Structures, Algorithms, and Low-Level Systems Programming.
@@ -35,7 +32,6 @@ Due to device limitations, I build, compile, and debug all my projects directly 
 
 ---
 
-📫 **Reach me at**:
 
 <div align="center">
     
