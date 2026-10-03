@@ -6,7 +6,7 @@
     
 ![Alone](https://media.tenor.com/OLcsauUFIUAAAAAM/alone-sad.gif)
 
-# Hi, I'm Furqon(@GoneSyFord) 👋
+# Hi, I'm Fukuru Hitori 👋
 
 I'm a self-taught high school student from Indonesia who turns curiosity into code.
 
